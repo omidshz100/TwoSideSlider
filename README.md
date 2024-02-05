@@ -53,6 +53,8 @@ The `Row` struct comprises a title and a description, making it versatile for va
 
 ### Example
 
+![App Preview](https://github.com/omidshz100/screenshots/blob/48451186f95cfb8e4cd0e7e1b8aede60637a17d9/TwiSidesSlider.gif)
+
 Here's a quick example of how you can use this custom row:
 
 ```swift
